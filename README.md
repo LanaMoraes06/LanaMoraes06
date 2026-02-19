@@ -5,7 +5,7 @@
   
   <p>
     <a href="https://github.com/LanaMoraes06">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o;Estudante+de+An%C3%A1lise+e+Des.+de+Sistemas;Estagi%C3%A1ria+de+TI+na+FEMA;Apaixonada+por+C%2B%2B+e+Java" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o;Estudante+de+An%C3%A1lise+e+Des.+de+Sistemas;Estagi%C3%A1ria+de+TI+na+FEMA;Apaixonada+por+C%2B%2B+e+Java" alt="Typing SVG" />
     </a>
   </p>
 </div>

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/a8/16/84/a816844695fa49287a0d3460378669f6.gif" width="100%" height="100" style="object-fit: cover;">
+  <img src="https://i.pinimg.com/originals/a8/16/84/a816844695fa49287a0d3460378669f6.gif" width="50%" height="100" style="object-fit: cover;">
   
   # Olá, sou a Lana! 👋🖤
   

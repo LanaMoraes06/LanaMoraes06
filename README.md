@@ -33,11 +33,16 @@
   ### 📊 Minhas Estatísticas
   
   <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaMoraes06&layout=compact&theme=radical&hide_border=true&langs_count=6"/>
-  </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LanaMoraes06&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
   
   <br>
-  
+
+  <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaMoraes06&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<br>
   <div align="center">
     <a href="SEU_LINKEDIN_AQUI" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">

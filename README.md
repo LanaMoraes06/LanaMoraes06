@@ -33,13 +33,11 @@
   ### 📊 Minhas Estatísticas
   
   <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LanaMoraes06&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-  
-  <br>
 
-  <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaMoraes06&layout=compact&langs_count=7&theme=dark"/>
+  [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LanaMoraes06&show_icons=true&theme=dark&hide_border=true)](https://github.com/LanaMoraes06)
+  
+  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LanaMoraes06&layout=compact&theme=dark&hide_border=true)](https://github.com/LanaMoraes06)
+
 </div>
 
 <br>

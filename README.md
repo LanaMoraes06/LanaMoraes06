@@ -17,7 +17,7 @@
   ### 💻 Sobre Mim
   
   👩‍💻 Atualmente sou **Estagiária de TI na FEMA**.
-  🎓 Faço **dupla graduação**: Engenharia de Computação & ADS.
+  🎓 Faço **dupla graduação**: Ciência de Dados & ADS.
   🧠 Estudando **Machine Learning** e **Desenvolvimento de Sistemas**.
   
   ---
